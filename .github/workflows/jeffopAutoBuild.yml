@@ -2,7 +2,8 @@
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
 # Author: eSirPlayground
-# Youtube Channel: https://goo.gl/fvkdwm 
+# Youtube Channel: https://goo.gl/fvkdwm
+# Edit: Jeff, Nov 3, 2023
 #=================================================
 
 name: Jeff_Build_x86_64
